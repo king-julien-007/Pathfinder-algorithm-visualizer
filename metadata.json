@@ -1,0 +1,5 @@
+{
+  "name": "Path Visualizer",
+  "description": "Pathfinding and maze generation algorithm visualizer",
+  "requestFramePermissions": [],
+}
